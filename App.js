@@ -7,6 +7,7 @@ export default function App() {
     <View style={tw`flex-1 items-center justify-center bg-gray-100`}>
       <Text style={tw`text-lg font-bold text-blue-500`}>
         Open up App.js to start working on your app!
+        hello bro welcome to my guy
       </Text>
       <StatusBar style="auto" />
     </View>
